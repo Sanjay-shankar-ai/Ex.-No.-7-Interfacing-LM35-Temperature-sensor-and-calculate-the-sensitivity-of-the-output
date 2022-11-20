@@ -2,7 +2,8 @@
 
 
 ### Ex. No. :7
-## Date: 
+## Name:S.Sanjay
+## REG No:212221230086 
 ### Interfacing LM35 Temperature sensor and calculate the sensitivity of the output
 
 ## Aim: 
